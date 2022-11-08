@@ -1,0 +1,20 @@
+ body
+ { background: #CCCCCC;
+ }
+#imagem1{
+    width: 100%;
+}
+h1 {text-align: center;
+}
+p {text-align: justify; font-size: 20px;
+  }
+#alfa { text-align: center; font-size: 24px
+
+}
+em strong {
+    color:  green;
+}
+
+strong {
+    color: blue;
+}
