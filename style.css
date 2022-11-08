@@ -1,8 +1,8 @@
  body
  { background: #CCCCCC;
  }
-#imagem1 {
-
+#imagem1{
+    width: 90%;
 }
 h1 {text-align: center;
 }
