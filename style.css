@@ -2,6 +2,7 @@
  { background: #CCCCCC;
  }
 #imagem1{
+    height: 100%;
     width: 90%;
 }
 h1 {text-align: center;
