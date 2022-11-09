@@ -1,22 +1,72 @@
  body
- { background: #CCCCCC;
+ { 
  }
 #imagem1{
 
     width: 100%;
 }
-h1 {text-align: center; color: red; font-size: 34px;
+.principal {
+    background-color:rgba(0,0,0,.12);
+    padding: 30px;
 }
-p {text-align: justify; font-size: 20px;
+h1 {
+    text-align: center; color: rgb(0, 130, 160); font-size: 36px;
+}
+p {
+    text-align: justify; font-size: 22px;
   }
-
-#alfa { text-align: center; font-size: 24px
-
-}
 em strong {
-    color:  green;
+    color: rgb(0, 130, 160);
 }
 
 strong {
-    color: blue;
+    color: rgb(130, 130, 130);
+}
+
+h2 {text-align: center; color: rgb(130, 130, 130); font-size: 26px
+}
+
+.generos {
+    background-color:rgb(255, 255, 255); 
+}
+
+.lista {
+     font-style: italic; font-size: 24px; color: rgb(0, 130, 160);
+     padding: 22px;
+}
+.box {
+    display: flex;
+    width: 90%;
+    height: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+#comic{
+ width: 51%;
+ margin-right: 5%;
+}
+#tira {
+   width:51%;
+   margin-right: 5%;
+}
+#charge {
+   width:34%;
+   margin-right: 5%;
+}
+#cartun {
+   width:53%;
+   margin-right: 5%;
+}
+#fanzine {
+   width:52%;
+   margin-right: 5%;
+}
+#manga {
+   width:52%;
+   margin-right: 5%;
+}
+#paradidatico{
+   width:51%;
+   margin-right: 5%;
 }
