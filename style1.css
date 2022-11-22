@@ -5,15 +5,21 @@
 
     width: 100%;
 }
+.cabeçalho { padding-left: 30px;
+
+}
 .principal {
     background-color:rgba(0,0,0,.12);
     padding: 30px;
 }
+.central  {
+    text-align: center; 
+}
 h1 {
-    text-align: center; color: rgb(0, 130, 160); font-size: 36px;
+    color: rgb(0, 130, 160); font-size: 36px;
 }
 p {
-    text-align: justify; font-size: 22px;
+    padding-left: 20px; text-align: justify; font-size: 22px; padding-right: 20px;
   }
 em strong {
     color: rgb(0, 130, 160);
@@ -23,9 +29,14 @@ strong {
     color: rgb(130, 130, 130);
 }
 
-h2 {text-align: center; color: rgb(130, 130, 130); font-size: 26px
+h2 {
+    color: rgb(130, 130, 130); font-size: 26px;
 }
 
+
+h3 {
+    color: rgb(0, 130, 160); font-size: 26px;
+}
 .generos {
     background-color:rgb(255, 255, 255); 
 }
@@ -69,4 +80,14 @@ h2 {text-align: center; color: rgb(130, 130, 130); font-size: 26px
 #paradidatico{
    width:51%;
    margin-right: 5%;
+}
+#fisica{
+    width: 60%;
+    height: 60%;
+    margin-right: 15%;
+    margin-left: 20%;
+
+}
+h4 {
+    padding-left: 20px; text-align: justify; font-size: 20px; padding-right: 20px;
 }
